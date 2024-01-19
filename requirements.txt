@@ -1,0 +1,4 @@
+OpenCV == 4.8.0
+TensorFlow == 2.15.0
+NumPy == 1.23.5
+Matplotlib
